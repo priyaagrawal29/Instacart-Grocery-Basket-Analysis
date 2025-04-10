@@ -20,3 +20,13 @@ Datasets used for this project:
 - Products
 - Orders_products_prior
 ## Folders
+Project folder contents:
+- 01 Project Management: Contains the project brief.
+- 02 Data: Contains two subfolders:
+  - Original Data: Contains original data sets.
+  - Prepared Data: Contains data sets that are cleaned and ready for analysis.
+- 03 Scripts: Contains Jupyter Notebooks with Python code for the analysis.
+- 04 Analysis: Contains a folder, Visualizations, that contains all visualizations that were developed for deriving insights.
+- 05 Sent to Client: Contains the final analysis report.
+## Disclaimer
+The data used in this project is open-source data from an existing company, Instacart, which is available online. The customer data used is not real data and has been created by CareerFoundry for the purpose of this project.
