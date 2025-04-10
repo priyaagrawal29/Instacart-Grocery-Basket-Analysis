@@ -1,2 +1,22 @@
-# Instacart-Grocery-Basket-Analysis
-This is a data analysis project for Instacart to make recommendations for a targeted marketing strategy. This project includes python code.
+# Instacart Grocery Basket Analysis
+## Project Summary
+This project involves and in-dept exploratory analysis of sales data from Instacart to identify sales patterns and purchasing behaviour. The objective of the analysis is to obtain insights that will assist with creating a targeted marketing strategy. The analysis aims to conduct customer segmentation based on purchasing behaviours by analzying factors such as income, loyalty, and age. Another goal of the analysis is to address questions from the marketing team and the sales team. The insights obtained from the analysis will help Instacart to develop and deliver targeted marketing campaigns to their various customer segments which will ensure that appropriate products are marketed to the right customers profiles, and this will further increase sales.
+## Key Questions
+- What are the busiest days of the week and hours of the day?
+- Are there particular times during the day when people spend the most money?
+- How can different price range groupings be applied to products?
+- Are there certain types of products that are more popular than others?
+- What's the distribution among users in regards to their brand loyalty?
+- Are there differences in ordering habits based on a customer's loyalty status?
+- Are there differences in ordering habits based on a customer's region?
+- Is there a connection between age and family status in terms of ordering habits?
+- What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+- What differences can you find in ordering habits of different customer profiles?
+## Data
+Datasets used for this project:
+- Customers
+- Departments
+- Orders
+- Products
+- Orders_products_prior
+## Folders
